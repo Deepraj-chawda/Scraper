@@ -1,0 +1,42 @@
+[
+  {
+    "initials": "DC",
+    "name": "deepraj chawda",
+    "email": "deepraj.2004.2002@gmail.com",
+    "phone": "",
+    "title": "",
+    "is_lead": "No"
+  },
+  {
+    "initials": "TV",
+    "name": "Tejaswi Velugoti",
+    "email": "velugotitejaswi@gmail.com",
+    "phone": "",
+    "title": "",
+    "is_lead": "No"
+  },
+  {
+    "initials": "SG",
+    "name": "Senguttuvan Ganesan",
+    "email": "seng@pearlthoughts.com",
+    "phone": "",
+    "title": "",
+    "is_lead": "Yes"
+  },
+  {
+    "initials": "PK",
+    "name": "Pawan kumar",
+    "email": "pawankumarwork9413@gmail.com",
+    "phone": "+91 94139 44510",
+    "title": "",
+    "is_lead": "No"
+  },
+  {
+    "initials": "MA",
+    "name": "Mohammed Asif",
+    "email": "asif000540@gmail.com",
+    "phone": "",
+    "title": "",
+    "is_lead": "No"
+  }
+]
